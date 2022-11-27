@@ -28,3 +28,5 @@
 
 ### Follow me
 
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/JosieVi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=007BB6)](https://www.linkedin.com/mwlite/in/olga-marushkina-636921b1)
