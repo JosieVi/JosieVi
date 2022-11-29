@@ -19,12 +19,13 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/JosieVi/Test_Cases_Case.io)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/JosieVi/Checklists)
+- [Test-Suites and Test-Cases](https://github.com/JosieVi/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/JosieVi/Bug-Reports)
+- [SQL Queries](https://github.com/JosieVi/SQL-Queries)
+- [Postman Collections](https://github.com/JosieVi/Postman-Collections)
 - [JavaScript](https://github.com/JosieVi/JavaScript)
+- [Git Bash](https://github.com/JosieVi/Git_Bash)
 
 ### Follow me
 
