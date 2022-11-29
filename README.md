@@ -3,8 +3,6 @@
 ## I'm a QA Engineer. 
 
 ## My CV
-[Link to my CV]()
-
 
 ### Language and Tools
 ![github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
@@ -25,7 +23,7 @@
 - [SQL Queries](https://github.com/JosieVi/SQL-Queries)
 - [Postman Collections](https://github.com/JosieVi/Postman-Collections)
 - [JavaScript](https://github.com/JosieVi/JavaScript)
-- [Git Bash](https://github.com/JosieVi/Git_Bash)
+- [Git Bash](https://github.com/JosieVi/Git-Bash)
 
 ### Follow me
 
