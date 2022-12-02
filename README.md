@@ -20,7 +20,7 @@
 
 - [Checklists](https://github.com/JosieVi/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/JosieVi/Test-Suites-and-Test-Cases)
-- [Bug-Reports](https://github.com/JosieVi/Bug-Reports)
+- [Bug Reports](https://github.com/JosieVi/Bug-Reports)
 - [SQL Queries](https://github.com/JosieVi/SQL-Queries)
 - [Postman Collections](https://github.com/JosieVi/Postman-Collections)
 - [JavaScript](https://github.com/JosieVi/JavaScript)
