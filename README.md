@@ -2,8 +2,7 @@
 ![Header](https://github.com/JosieVi/JosieVi/blob/main/assets/github-header-image.png)
 ## I'm a QA Engineer. 
 
-## My CV
-![CV](https://github.com/JosieVi/JosieVi/blob/main/assets/CV-Marushkina-Olga.pdf)
+## [My CV](https://github.com/JosieVi/JosieVi/blob/main/assets/CV-Marushkina-Olga.pdf)
 
 ### Language and Tools
 ![github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
