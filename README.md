@@ -6,7 +6,7 @@ I am an independent, proactive individual capable of solving tasks without const
 ## [My CV](https://github.com/JosieVi/JosieVi/blob/main/assets/CV-Marushkina-Olga.pdf)
 
 ### Language and Tools
-![github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![googlechrome](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![androidstudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
