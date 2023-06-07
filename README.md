@@ -1,6 +1,7 @@
 
 ![Header](https://github.com/JosieVi/JosieVi/blob/main/assets/github-header-image.png)
 ## I'm a QA Engineer. 
+I am an independent, proactive individual capable of solving tasks without constant supervision. I have a quick adaptability to new environments and information and a strong drive for continuous growth. I excel at crafting concise yet meaningful formulations, while effectively organizing and structuring information
 
 ## [My CV](https://github.com/JosieVi/JosieVi/blob/main/assets/CV-Marushkina-Olga.pdf)
 
