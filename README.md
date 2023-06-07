@@ -7,7 +7,7 @@ I am an independent, proactive individual capable of solving tasks without const
 
 ### Language and Tools
 ![git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![mysql](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysqlworkbench&logoColor=00618a)
 ![googlechrome](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![androidstudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=71b556)
