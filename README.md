@@ -1,4 +1,4 @@
-![Header](<img width="512" height="279" alt="image" src="https://github.com/user-attachments/assets/723d7e18-24f6-4882-968f-e75392fb5781"/>)
+![Header](https://github.com/user-attachments/assets/723d7e18-24f6-4882-968f-e75392fb5781)
 
 # Hi, I'm Olga! 👋  
 ### QA Engineer | Testing | Automation | Continuous Learning
