@@ -19,7 +19,7 @@ In a training project, I developed a test framework using JavaScript/TypeScript 
 
 ## 🔧 Key Skills & Tools
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Playwright-090909?style=for-the-badge&logo=playwright&logoColor=FFFFFF" alt="Playwright" />
@@ -47,7 +47,7 @@ In a training project, I developed a test framework using JavaScript/TypeScript 
 
 ## 📂 Projects & Documentation
 
-<div align="center">
+<div align="left">
 
 | 📌 Project                  | Description                                                      | 🔗 Link                                         |
 |----------------------------|-----------------------------------------------------------------|------------------------------------------------|
