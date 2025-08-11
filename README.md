@@ -1,4 +1,5 @@
-![Header](https://github.com/user-attachments/assets/a34346df-0f09-403c-a401-093aa23b9914)
+![Header](https://github.com/user-attachments/assets/a050dc7a-9b40-4766-878f-902b73740b42)
+
 
 # Hi, I'm Olga! 👋  
 ### QA Engineer | Testing | Automation | Continuous Learning
