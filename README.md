@@ -1,6 +1,6 @@
 ![Header](https://github.com/JosieVi/JosieVi/blob/main/assets/github-header-image.png)
 
-# Hi, I'm JosieVi! 👋  
+# Hi, I'm Olga! 👋  
 ### QA Engineer | Testing | Automation | Continuous Learning
 
 ---
